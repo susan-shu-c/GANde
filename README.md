@@ -10,9 +10,9 @@ Steps
 2. Crop face into training set
 3. Set up GAN architecture, train, and save process
 
+![OpenCV Face boxing](/GANde_facecrop_illustration/fullsized_box.jpeg)
 
-
-![Facecrop training set](/GANde_facecrop_illustration/facecrop_training_set.jpg =250x)
+![Facecrop training set](/GANde_facecrop_illustration/facecrop_training_set.jpeg =250x)
 
 ![Example output 2](GANde_output_2_small.gif)
 
