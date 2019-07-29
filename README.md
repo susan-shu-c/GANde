@@ -12,7 +12,7 @@ Steps
 
 ![OpenCV Face boxing](/GANde_facecrop_illustration/fullsized_box.jpeg)
 
-![Facecrop training set](/GANde_facecrop_illustration/facecrop_training_set.jpeg){:height="50%" width="50%"}
+<img src="/GANde_facecrop_illustration/facecrop_training_set.jpeg" alt="Facecrop training set" width="250">
 
 ![Example output 2](GANde_output_2_small.gif)
 
