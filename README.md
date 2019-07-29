@@ -4,6 +4,8 @@
 
 Process of gathering data and training GAN to generate faces of the American singer Ariana Grande
 
+![Example output 2](GANde_output_2_small.gif)
+
 Steps
 
 1. Use OpenCV `face_recognition` to box face of Ariana Grande from full sized pictures
@@ -20,17 +22,15 @@ Steps
 
 ## Example GAN outputs
 
-![Example output 2](GANde_output_2_small.gif)
-
 ![Example output 3](GANde_output_3_small.gif)
+
+![Example output 4](GANde_output_4.gif)
 
 Main tools
 
 * Google Colab - free GPU!!!
 * OpenCV
 * Tensorflow
-
-![Example output 4](GANde_output_4.gif)
 
 Resources
 
