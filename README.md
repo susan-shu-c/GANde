@@ -9,9 +9,9 @@ Steps
 2. Crop face into training set
 3. Set up GAN architecture, train, and save process
 
-![Example output 2](GANde_output_2.gif)
+![Example output 2](GANde_output_2_small.gif)
 
-![Example output 3](GANde_output_3.gif)
+![Example output 3](GANde_output_3_small.gif)
 
 Main tools
 * Google Colab - free GPU!!!
