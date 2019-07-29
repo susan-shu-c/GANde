@@ -26,13 +26,13 @@ Steps
 
 ![Example output 4](GANde_output_4.gif)
 
-Main tools
+## Main tools
 
 * Google Colab - free GPU!!!
 * OpenCV
 * Tensorflow
 
-Resources
+## Resources
 
 * Download pretrained model and weights (for face boxing portion) from OpenCV source GitHub
   * https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector
