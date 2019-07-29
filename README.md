@@ -10,9 +10,15 @@ Steps
 2. Crop face into training set
 3. Set up GAN architecture, train, and save process
 
+## Box face from full size or zoomed out images
+
 ![OpenCV Face boxing](/GANde_facecrop_illustration/fullsized_box.jpeg)
 
+## Save face only to training set
+
 <img src="/GANde_facecrop_illustration/facecrop_training_set.jpeg" alt="Facecrop training set" width="250">
+
+## Example GAN outputs
 
 ![Example output 2](GANde_output_2_small.gif)
 
@@ -28,7 +34,7 @@ Main tools
 
 Resources
 
-* Download pretrained model and weights from OpenCV source GitHub
+* Download pretrained model and weights (for face boxing portion) from OpenCV source GitHub
   * https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector
   * https://github.com/opencv/opencv/blob/master/samples/dnn/face_detector/weights.meta4
 * For the GAN portion - followed amazing tutorial by Yumi Kondo
