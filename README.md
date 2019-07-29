@@ -20,4 +20,9 @@ Main tools
 
 
 Resources
-For the GAN portion - followed amazing tutorial by https://fairyonice.github.io/My-first-GAN-using-CelebA-data.html
+
+* Download pretrained model and weights from OpenCV source GitHub
+  * https://github.com/opencv/opencv/tree/master/samples/dnn/face_detector
+	* https://github.com/opencv/opencv/blob/master/samples/dnn/face_detector/weights.meta4
+* For the GAN portion - followed amazing tutorial by Yumi Kondo
+  * https://fairyonice.github.io/My-first-GAN-using-CelebA-data.html
